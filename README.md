@@ -1,4 +1,4 @@
-# How Does Unfaithful Reasoning Emerge from Autoregressive Training?  
+# How Does Unfaithful Reasoning Emerge from Autoregressive Training? A Study of Synthetic Experiments
 ### Anonymous code release for ICML 2026 submission
 
 This repository contains the implementation of the experiments described in the paper:
