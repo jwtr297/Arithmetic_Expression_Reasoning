@@ -29,6 +29,7 @@ bash arithmetic_experiments/minimal_task_experiment/main_wop.sh
 CoT-faithfulness-synthetic-arithmetic/
 ├── __init__.py
 ├── config.yaml
+├── requirements.txt
 ├── arithmetic_experiments/
 │   ├── __init__.py
 │   ├── minimal_task_experiment/
